@@ -1,18 +1,10 @@
-# Loading-Animation
-## Loading Animation Indicator for process any task.
-
-Added Some screens here.
-
-![](https://github.com/pawankv89/Loading-Animation/blob/master/images/Screen_1.png)
-![](https://github.com/pawankv89/Loading-Animation/blob/master/images/Screen_2.png)
-![](https://github.com/pawankv89/Loading-Animation/blob/master/images/Screen_3.png)
-![](https://github.com/pawankv89/Loading-Animation/blob/master/images/Screen_4.png)
-
-## Usage
-
-#### Controller
-
-```swift
+//
+//  PKLoadingView.m
+//  SimpleAnimation
+//
+//  Created by Pawan kumar on 1/20/17.
+//  Copyright © 2017 Appcoda. All rights reserved.
+//
 
 #import "PKLoadingView.h"
 
@@ -109,20 +101,5 @@ Added Some screens here.
     return self;
 }
 
+
 @end
-
-```
-
-## Requirements
-
-### Build
-
-Xcode Version 11.3 (11C29), iOS 13.2.0 SDK
-
-## License
-
-This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-## Change-log
-
-A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
